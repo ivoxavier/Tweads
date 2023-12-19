@@ -1,0 +1,16 @@
+{
+    "name": "tweads.ivoxavier",
+    "description": "Unofficial WebApp of Threads",
+    "architecture": "@CLICK_ARCH@",
+    "title": "Tweads",
+    "hooks": {
+        "tweads": {
+            "apparmor": "tweads.apparmor",
+            "desktop":  "tweads.desktop",
+            "content-hub": "tweads-content-hub.json" 
+        }
+    },
+    "version": "0.1.0",
+    "maintainer": "Ivo Xavier <ivofernandes12@gmail.com>",
+    "framework" : "@CLICK_FRAMEWORK@"
+}
