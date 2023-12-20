@@ -70,7 +70,7 @@ MainView {
           id: webContext
           httpUserAgent: "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.5845.163 Mobile Safari/537.36"
           storageName: "Storage"
-          persistentStoragePath: "/home/phablet/.cache/xweb.ivoxavier/xweb.ivoxavier/QtWebEngine"
+          persistentStoragePath: "/home/phablet/.cache/tweads.ivoxavier/tweads.ivoxavier/QtWebEngine"
         }
         anchors {
           fill:parent
