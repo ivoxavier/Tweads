@@ -1,4 +1,4 @@
-# XWeb
+# Tweads
 
 Unofficial WebApp of Threads
 
